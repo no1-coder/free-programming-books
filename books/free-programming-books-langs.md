@@ -408,10 +408,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
-
-
-### BeanShell
-
 * [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
 * [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
 
@@ -531,6 +527,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
+* [Stroustrup - The C++ Programming Language 4th Edition.pdf](https://a9293221-18b3-4036-9b1e-80e4a10b04b9.filesusr.com/ugd/d308b4_80b15595d21c40b3b52911dbd95111b7.pdf) - 𝐁𝐣𝐚𝐫𝐧𝐞 𝐒𝐭𝐫𝐨𝐮𝐬𝐭𝐫𝐮𝐩 (PDF)
 * [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
